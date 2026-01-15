@@ -59,5 +59,5 @@ No installation or GPU setup required.
 #### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/IndiraOcampo/NN_interpretability_lecture.git
-cd ML-Lecture
+cd notebooks
 
