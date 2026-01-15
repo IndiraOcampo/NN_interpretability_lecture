@@ -30,10 +30,14 @@ You can use the notebooks either locally or directly in **Google Colab** (recomm
 -  Neural Networks example
 - Interpretation
 
-### `03_cmb_example.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/IndiraOcampo/NN_interpretability_lecture/blob/main/notebooks/03_cmb_example.ipynb)
+### `03_cmb_example.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com](https://colab.research.google.com/github/IndiraOcampo/NN_interpretability_lecture/blob/main/notebooks/03_cmb_example.ipynb)
 -  ML example applied to physics
 - Interpretation
 - Discussion of limitations (simulation vs reality, noise, etc.)
+
+### `05_hands_on.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com](https://colab.research.google.com/github/IndiraOcampo/NN_interpretability_lecture/blob/main/notebooks/05_hands_on.ipynb)
+- Hands on session
+- Discussion of limitations
   
 ---
 
