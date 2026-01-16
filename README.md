@@ -38,6 +38,14 @@ You can use the notebooks either locally or directly in **Google Colab** (recomm
 ### `05_hands_on.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IndiraOcampo/NN_interpretability_lecture/blob/main/notebooks/05_hands_on.ipynb)
 - Hands on session
 - Discussion of limitations
+
+### `06_interpret1_lime.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IndiraOcampo/NN_interpretability_lecture/blob/main/notebooks/06_interpret1_lime.ipynb)
+- Local interpretability
+- LIME implementation
+
+### `07_interpret2_shap.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IndiraOcampo/NN_interpretability_lecture/blob/main/notebooks/07_interpret2_shap.ipynb)
+- GLobal interpretability
+- SHAP implementation
   
 ---
 
